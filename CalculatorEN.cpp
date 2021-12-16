@@ -36,7 +36,6 @@ int main(){
    cout << "|----------------------------------| \n";
    while(option != 0){
    cout << "\nWhat operation do you want to perform?" << endl;
-   cout << " \n";
    cout << "Enter zero [0] if you want to end the program " << endl;
    cin >> option;
    cout << endl;
